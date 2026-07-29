@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Opitien 👋
 
-<!--
-**Opitien/Opitien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer turning complex ideas into fast, user-friendly products for startups. I started my dev journey in 2023 — self-taught, built through trial, error, and shipping real things.
 
-Here are some ideas to get you started:
+🔧 **Building with:** React, Next.js, TypeScript, Tailwind CSS
+🚀 **Currently:** building product infrastructure for platforms serving hundreds of businesses across Africa
+✍️ **Writing:** [The Unwritten Africa](https://opitien.xyz) — exploring African history, leadership, and society
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about the intersection of clean engineering and good design — not just "does it work," but "does it feel right."
+
+Open to select freelance/contract work — reach out if you need clean, production-ready frontend work.
+
+**Find me:**
+🌐 [opitien.xyz](https://opitien.xyz)
+🐦 [@opitienejiroghene](https://twitter.com/opitienejiroghene)
+💼 [LinkedIn](https://linkedin.com/in/opitien)
