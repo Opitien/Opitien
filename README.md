@@ -4,7 +4,7 @@ Frontend Engineer turning complex ideas into fast, user-friendly products for st
 
 🔧 **Building with:** React, Next.js, TypeScript, Tailwind CSS
 🚀 **Currently:** building product infrastructure for platforms serving hundreds of businesses across Africa
-✍️ **Writing:** [The Unwritten Africa](https://opitien.xyz) — exploring African history, leadership, and society
+✍️ **Writing:** [The Unwritten Africa](https://substack.com/@opitien) — exploring African history, leadership, and society
 
 I care about the intersection of clean engineering and good design — not just "does it work," but "does it feel right."
 
