@@ -19,7 +19,7 @@ A business formation and compliance platform helping people start and manage bus
 **[Rydvert](https://www.rydvert.com/)**  
 A platform connecting businesses with vehicle owners for out-of-home advertising.
 
-**[Cravely](https://cravely-orders.vercel.app/)**  
+**[Cravely](https://getcravely.vercel.app/)**  
 A cross-platform food ordering application built with React Native, Expo, Supabase and Paystack.
 
 I also explore projects across e-commerce, AI applications, IoT and interactive web experiences.
